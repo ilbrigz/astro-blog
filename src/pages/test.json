@@ -2,5 +2,5 @@
   "layout": "../layouts/AboutLayout.astro",
   "title": "title",
   "body": "body",
-  "heroImage": "//assets/logo.png"
+  "heroImage": "../../assets/images/AstroPaper-v4.png"
 }
