@@ -1,5 +1,6 @@
 {
   "layout": "../layouts/AboutLayout.astro",
   "title": "asdfasdfasd",
-  "body": "amazing body"
+  "body": "amazing body",
+  "heroImage": "//astropaper-og.jpg"
 }
