@@ -2,5 +2,9 @@
   "layout": "../layouts/AboutLayout.astro",
   "title": "title",
   "body": "body",
-  "heroImage": "../../assets/images/AstroPaper-v4.png"
+  "heroImage": "../../assets/images/AstroPaper-v4.png",
+  "listImages": [
+    "../../assets/images/AstroPaper-v3.png",
+    "../../assets/images/AstroPaper-v4.png"
+  ]
 }
