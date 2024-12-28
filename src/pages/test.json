@@ -2,5 +2,8 @@
   "layout": "../layouts/AboutLayout.astro",
   "title": "asdfasdfasd",
   "body": "amazing body",
-  "heroImage": "//astropaper-og.jpg"
+  "heroImage": [
+    "//assets/forrest-gump-quote.webp",
+    "//assets/logo.png"
+  ]
 }
