@@ -1,9 +1,5 @@
 {
-  "layout": "../layouts/AboutLayout.astro",
-  "title": "updated",
-  "body": "amazing body",
-  "heroImage": [
-    "//assets/forrest-gump-quote.webp",
-    "//assets/logo.png"
-  ]
+
+
+  
 }
