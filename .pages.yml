@@ -35,4 +35,5 @@ content:
       - name: heroImage
         label: Preview image
         type: image
+        list: true
         description: Image used in the social preview on social networks (e.g. Facebook, Twitter...)
