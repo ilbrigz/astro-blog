@@ -1,3 +1,5 @@
 {
-  "layout": "../layouts/AboutLayout.astro"
+  "layout": "../layouts/AboutLayout.astro",
+  "title": "asdfasdfasd",
+  "body": "asdfasdf"
 }
