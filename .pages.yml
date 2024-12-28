@@ -32,3 +32,7 @@ content:
       - { name: layout, type: string, hidden: true, default: "../layouts/AboutLayout.astro" }
       - { name: title, label: Title, type: string }
       - { name: body, label: Body, type: rich-text, options: { input: public/assets, output: /assets } }
+      - name: heroImage
+        label: Preview image
+        type: image
+        description: Image used in the social preview on social networks (e.g. Facebook, Twitter...)
