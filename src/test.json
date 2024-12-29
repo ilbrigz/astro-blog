@@ -1,9 +1,9 @@
-[{
+{
   "layout": "../layouts/AboutLayout.astro",
-  "title": "adfadf",
-  "body": "fadfadf",
+  "title": "fasdf",
+  "body": "adfaf",
   "heroImage": "../../assets/images/AstroPaper-v3.png",
   "listImages": [
     "../../assets/images/AstroPaper-v3.png"
   ]
-}]
+}
