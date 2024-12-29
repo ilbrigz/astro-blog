@@ -1,4 +1,4 @@
-{
+[{
   "layout": "../layouts/AboutLayout.astro",
   "title": "adfadf",
   "body": "fadfadf",
@@ -6,4 +6,4 @@
   "listImages": [
     "../../assets/images/AstroPaper-v3.png"
   ]
-}
+}]
