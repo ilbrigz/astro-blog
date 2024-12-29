@@ -1,9 +1,10 @@
 {
   "layout": "../layouts/AboutLayout.astro",
-  "title": "fasdf",
-  "body": "adfaf",
-  "heroImage": "/src/assets/images/AstroPaper-v3.png",
+  "title": "fasdffasdf",
+  "body": "adfafsadf",
+  "heroImage": "/src/assets/images/AstroPaper-v4.png",
   "listImages": [
-    "/src/assets/images/AstroPaper-v3.png"
+    "/src/assets/images/AstroPaper-v3.png",
+    "/src/assets/images/AstroPaper-v4.png"
   ]
 }
