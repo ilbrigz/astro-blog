@@ -6,5 +6,11 @@
   "listImages": [
     "/src/assets/images/AstroPaper-v3.png",
     "/src/assets/images/AstroPaper-v4.png"
-  ]
+  ],
+  "contact": {
+    "first_name": "fasdf",
+    "last_name": "fasdf",
+    "email": "fasdf",
+    "phone": "fasdff"
+  }
 }
