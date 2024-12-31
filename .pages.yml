@@ -41,3 +41,8 @@ content:
         list: true
         type: image
         description: list of images
+      - name: stringList
+        label: list of strings
+        list: true
+        type: string
+        description: this is a list of string
