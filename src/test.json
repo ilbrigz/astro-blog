@@ -7,10 +7,24 @@
     "/src/assets/images/AstroPaper-v3.png",
     "/src/assets/images/AstroPaper-v4.png"
   ],
-  "contact": {
-    "first_name": "fasdf",
-    "last_name": "fasdf",
-    "email": "fasdf",
-    "phone": "fasdff"
-  }
+  "contact": [
+    {
+      "first_name": "brayn",
+      "last_name": "brigoli",
+      "email": "braynbrigoli24@gmail.com",
+      "phone": "09482968789"
+    },
+    {
+      "first_name": "brayn",
+      "last_name": "brigoli",
+      "email": "braynbrigoli24@gmail.com",
+      "phone": "09482968789"
+    },
+    {
+      "first_name": "brayn",
+      "last_name": "brigoli",
+      "email": "braynbrigoli24@gmail.com",
+      "phone": "09482968789"
+    }
+  ]
 }
